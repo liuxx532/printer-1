@@ -1,0 +1,63 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* history_change.txt
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* libs/armeabi/libAndroidIDCard.so => app/src/main/jniLibs/armeabi/libAndroidIDCard.so
+* libs/armeabi/libDecodeWlt.so => app/src/main/jniLibs/armeabi/libDecodeWlt.so
+* libs/armeabi/libTHPlateID.so => app/src/main/jniLibs/armeabi/libTHPlateID.so
+* libs/armeabi/libhjh-gpio.so => app/src/main/jniLibs/armeabi/libhjh-gpio.so
+* libs/armeabi/libhjh-i2c.so => app/src/main/jniLibs/armeabi/libhjh-i2c.so
+* libs/armeabi/libiconv.so => app/src/main/jniLibs/armeabi/libiconv.so
+* libs/armeabi/libprinter.so => app/src/main/jniLibs/armeabi/libprinter.so
+* libs/armeabi/libpsamdev.so => app/src/main/jniLibs/armeabi/libpsamdev.so
+* libs/armeabi/libserial_port.so => app/src/main/jniLibs/armeabi/libserial_port.so
+* libs/armeabi/libstrip-card.so => app/src/main/jniLibs/armeabi/libstrip-card.so
+* libs/armeabi/libzbarjni.so => app/src/main/jniLibs/armeabi/libzbarjni.so
+* libs/core-3.2.1.jar => app/libs/core-3.2.1.jar
+* libs/smartdevicesdk.jar => app/libs/smartdevicesdk.jar
+* libs/zbar.jar => app/libs/zbar.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
