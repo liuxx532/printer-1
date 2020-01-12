@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/flash_off.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/flash_off.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/back_btn_result.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/back_btn_result.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/background4.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/background4.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/gl.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/gl.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/changecamera.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/changecamera.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/ex_folder.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/ex_folder.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/folder.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/folder.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/ex_doc.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/ex_doc.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/background3.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/background3.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/tack_pic_btn.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/tack_pic_btn.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/back_btn.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/back_btn.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/flash_on.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/flash_on.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/picture.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/picture.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/flash_camera_btn.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/flash_camera_btn.png"
+    },
+    {
+        "merged": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/res/merged/debug/drawable-hdpi/back_camera_btn.png",
+        "source": "/Users/lgx/workspace/lgx/github/terminal/printer-1/app/src/main/res/drawable-hdpi/back_camera_btn.png"
+    }
+]

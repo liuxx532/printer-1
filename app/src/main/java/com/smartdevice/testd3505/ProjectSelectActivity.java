@@ -222,14 +222,25 @@ public class ProjectSelectActivity extends Activity {
     private void printer() {
 
         printerClass.write(PrinterCommand.CMD_FONTSIZE_DOUBLE);
-        printerClass.printText("茶叶        " + spinner1.getText().toString() + "两\n");
-        printerClass.printText("茶杯        " + spinner2.getText().toString() + "个\n");
-        printerClass.printText("餐巾纸      " + spinner3.getText().toString() + "包\n");
+        printerClass.printText("肉             " + spinner1.getText().toString() + "\n");
+        printerClass.printText("肠子           " + spinner2.getText().toString() + "\n");
+        printerClass.printText("焖子           " + spinner3.getText().toString() + "\n");
         printerClass.write(PrinterCommand.CMD_SET_FONT_16x16);
-        printerClass.printText("当前时间     " + currentTime + "\n");
+        printerClass.printText("尚家柳肉食 " + "\n");
+        printerClass.printText("联系电话: 13930896169" + "\n");
+        printerClass.printText("日期: " + currentTime + "\n");
+        printerClass.printText("欢 ……(^-^) " + "\n");
+        printerClass.printText("迎 ……(^-^) " + "\n");
+        printerClass.printText("下 ……(^-^) " + "\n");
+        printerClass.printText("次 ……(^-^) " + "\n");
+
         printerClass.printImage(btMap);
-        printerClass.printUnicode("\n\n");
-        printerClass.printUnicode("\n\n");
+//        printerClass.printUnicode("\n\n");
+//        printerClass.printUnicode("\n\n");
+//        printerClass.printUnicode("\n\n");
+//        printerClass.printUnicode("\n\n");
+//        printerClass.printUnicode("\n\n");
+//        printerClass.printUnicode("\n\n");
 
     }
 

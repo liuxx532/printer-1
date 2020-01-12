@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smartdevicesdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/smartdevicesdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

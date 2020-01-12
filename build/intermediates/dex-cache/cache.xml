@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lgx/workspace/lgx/github/terminal/printer-1/app/libs/zbar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/pre-dexed/debug/zbar_807706dd85599bf78ecf18cf19b72f5d12f6b2e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lgx/workspace/lgx/github/terminal/printer-1/app/libs/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/pre-dexed/debug/core-3.2.1_1007aea6d786590d033fb2f0d43e48499457ba20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lgx/workspace/lgx/github/terminal/printer-1/app/libs/smartdevicesdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="53085f06172feca5cd4ac4e300f7b473913c6d10">
+        <dex dex="/Users/lgx/workspace/lgx/github/terminal/printer-1/app/build/intermediates/pre-dexed/debug/smartdevicesdk_5f00e91883d73f1c848a0d8540b0565d7d286639.jar" />
+    </item>
+
+</items>
